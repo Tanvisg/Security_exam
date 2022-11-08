@@ -1,0 +1,18 @@
+Difference between aes and des 
+all cipher example 
+What is malicious software 
+What is virus 
+What is aes and des 
+Who invented aes
+without key, can encyption apply
+where are key is software
+formula of e in rsa
+how to find mod 
+how encrypted msg can be decrypt
+what is hash 
+where hash is apply
+snifffer, snooping, social engineering, torjan
+what is des
+types of des 
+stuture of des
+is des good or aes 
